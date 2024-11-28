@@ -13,8 +13,8 @@ void swap(char *a, char *b)
 }
 int main()
 {
-    char word1[100]= "Kavya";
-    char word2[] = "Bhatiya";
+    char word1[100]= "teja";
+    char word2[] = "mukhesh";
 
     char copy[10],concate[100];
     
